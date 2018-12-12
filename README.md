@@ -9,9 +9,9 @@ The records within x_test & x_train include the values acquired from the sensor 
 	Triaxial Angular velocity from the gyroscope. 
 	A 561-feature vector with time and frequency domain variables."
 The fields within x_test & x_train correspond to the measurements outlined in features_info.txt. They are: 
-	*"tBodyAcc-XYZ 
-	*tGravityAcc-XYZ
-	tBodyAccJerk-XYZ
+*"tBodyAcc-XYZ 
+*tGravityAcc-XYZ
+*tBodyAccJerk-XYZ
 	tBodyGyro-XYZ
 	tBodyGyroJerk-XYZ
 	tBodyAccMag
