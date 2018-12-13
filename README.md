@@ -12,9 +12,9 @@ The fields within x_test & x_train correspond to the measurements outlined in fe
 *"tBodyAcc-XYZ 
 *tGravityAcc-XYZ
 *tBodyAccJerk-XYZ
-	tBodyGyro-XYZ
-	tBodyGyroJerk-XYZ
-	tBodyAccMag
+*tBodyGyro-XYZ
+*tBodyGyroJerk-XYZ
+*tBodyAccMag
 	tGravityAccMag
 	tBodyAccJerkMag
 	tBodyGyroMag
