@@ -31,6 +31,7 @@ The fields within x_test & x_train correspond to the measurements outlined in fe
 - tBodyAccJerkMean
 - tBodyGyroMean
 - tBodyGyroJerkMean"
+
 each with the following submeasurements: 
 - "mean(): Mean value
 - std(): Standard deviation
